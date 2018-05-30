@@ -14,7 +14,7 @@ Requirements:
 
 How to play:
 
-Launch the index file using a web browser of your choice. Avoid enemy bugs moving across; if your player is hit by a bug, it will be moved to its original position on the game screen. You win the game when the player reach the lake.
+Download or clone the repository and launch the index file using a web browser of your choice. Avoid enemy bugs moving across; if your player is hit by a bug, it will be moved to its original position on the game screen. You win the game when the player reach the lake.
 
 To control and move the player, use the following arrow keys:
 
